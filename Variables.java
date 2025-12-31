@@ -45,3 +45,4 @@ public class Variables {
     
 }
 // Day 1 variables practice
+// Day 1 variables practice
