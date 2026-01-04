@@ -41,7 +41,7 @@ public class Variables {
         Interface   | Contract for classes
 */
 
-    }
+    } 
     
 }
 // Day 1 variables practice
