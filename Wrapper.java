@@ -4,7 +4,7 @@ public class Wrapper {
         // Wrapper Class (Non-Primitive)
         Byte number = 123;
         System.out.println("Byte Class(Non-Primitive): "+number);
-        
+         
         Short count = 2134;
         System.out.println("Short Class(Non-Primitive): "+count);
 
