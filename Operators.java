@@ -16,11 +16,11 @@ public class Operators {
 
         System.out.println("Pre Increment of A: "+pre_increment);
         System.out.println("Post Increment of A: "+post_increment);
-       // System.out.println("Value of A after Increment: "+a);
+        System.out.println("Value of A after Increment: "+a);
 
         System.out.println("Pre Decrement of A: "+pre_decrement);
         System.out.println("Post Decrement of A: "+post_decrement);
-       // System.out.println("Value of B after Decrement: "+b);
+       System.out.println("Value of B after Decrement: "+b);
 
 
         // Arithmetic Operators (+ , - , * , / , %)
@@ -70,12 +70,6 @@ public class Operators {
         System.out.println("The value of count after multiplication: "+(count *= 10));
         System.out.println("The value of count after  : "+(count /= 10));
         System.out.println("The value of count after : "+(count %= 10));
-
-
-
-
-        
-       
 
     }
 }
