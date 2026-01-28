@@ -1,4 +1,4 @@
-public class Wrapper {
+public class WrapperClasses {
     public static void main(String[] args) {
 
         // Wrapper Class (Non-Primitive)
