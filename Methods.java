@@ -10,7 +10,7 @@ public class Methods {
 
     // with parameters with return type
     static int sum(int a , int b){        
-       
+          
         return a+b;
     }
 
